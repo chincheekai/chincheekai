@@ -44,7 +44,6 @@ I build production-grade, robust scripting templates to demonstrate how modern e
 ---
 
 ### 📬 Connect & Collaborate
-*   📧 **Email:** [cheekai@ntu.edu.sg](mailto:cheekai@ntu.edu.sg)
 *   🏫 **Institution:** [Nanyang Technological University (NTU Singapore)](https://www.ntu.edu.sg)
 *   👔 **Professional Goal:** Sharing production-grade scripting practices, bulletproof error-logging routines, and pedagogical frameworks.
 
