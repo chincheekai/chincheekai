@@ -23,7 +23,7 @@ My core focus is developing high-fidelity tools that **drive organizational effi
 ### 🚀 Featured Educational & Productivity Initiatives
 
 #### 🏫 Active Learning Applications
-I design and engineer **zero-dependency, single-file interactive tools** that serve as active classroom simulators. These tools eliminate external CDN vulnerabilities and work flawlessly offline to facilitate real-time, hands-on learning.
+I design and engineer **interactive tools** that serve as active classroom simulators. These tools eliminate external vulnerabilities and work flawlessly offline to facilitate real-time, hands-on learning.
 *   **Statistical Timers & Queue Simulators:** Interactive simulations designed to help business analytics students visually grasp queuing theory and operations metrics.
 *   **Classroom Response Systems:** Lightweight, high-fidelity applications that gamify active recall and streamline classroom engagement without subscription fees.
 
